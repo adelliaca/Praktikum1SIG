@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jabodetabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "DKI Jakarta", "luas": 661.5, "populasi": "11135,191", "tahun": 2024, "GDP": 21.166 }, "geometry": { "type": "Point", "coordinates": [ 106.828835885127035, -6.172625024517686 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "Depok", "luas": 200.3, "populasi": "2163,64", "tahun": 2024, "GDP": 2.678 }, "geometry": { "type": "Point", "coordinates": [ 106.816048489162483, -6.406490280961492 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "Bogor", "luas": 118.5, "populasi": "1137,859", "tahun": 2024, "GDP": 3.493 }, "geometry": { "type": "Point", "coordinates": [ 106.797261110602562, -6.596641671805116 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "Bekasi", "luas": 204.6, "populasi": "2526,133", "tahun": 2024, "GDP": 2.971 }, "geometry": { "type": "Point", "coordinates": [ 106.994104025151614, -6.235224963551914 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "Tanggerang Selatan", "luas": 147.19, "populasi": " 1429,529", "tahun": 2024, "GDP": 4.921 }, "geometry": { "type": "Point", "coordinates": [ 106.707958834095564, -6.321558226006189 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "Tanggerang", "luas": 164.5, "populasi": "1927,815", "tahun": 2024, "GDP": 6.949 }, "geometry": { "type": "Point", "coordinates": [ 106.637059873926717, -6.175331377039939 ] } }
+]
+}
